@@ -704,6 +704,7 @@ header .navbar ul li a:hover {
   background-color: #fff;
   width: 80px;
   height: 40px;
+  
   cursor:pointer;
 }
 .pro-btn:hover{
@@ -769,6 +770,15 @@ header .navbar ul li a:hover {
     width:80%;
     height: 80%;
     cursor: pointer;
+  }
+  .pro-btn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 80px;
+    height: 40px;
+    cursor:pointer;
+    margin-top: 15px;
   }
 }
 
